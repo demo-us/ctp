@@ -1,0 +1,23 @@
+{
+  "name": "ctp",
+  "version": "0.0.1",
+  "description": "common test platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:demo-us/ctp.git"
+  },
+  "author": "Stephen D",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/demo-us/ctp/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.0",
+    "superagent": "~2.3.0",
+    "cheerio": "~0.22.0"
+  }
+}
