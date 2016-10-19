@@ -7,7 +7,7 @@ var count = 0;
 var app = express();
 var items = [];
 
-var userUrl = 'https://abcde.xxx.se/jpT/demo/';
+var userUrl = 'https://xxx.com/jpT/demo/';
 var curTime = new Date();
 var yr = curTime.getYear()-100;
 var mon = curTime.getMonth()+1;
